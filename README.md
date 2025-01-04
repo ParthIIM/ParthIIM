@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on building a urban commute solution.
-- 🌱 I’m currently learning more about urban transportation and on the side picking up on software development and coding.
+- 🌱 I’m learning more about urban transportation and on the side picking up coding.
 - 👯 I’m looking to collaborate on any ideas on developing a ride sharing app and solution which is applicable to India and works differently than existing solutions !
 - 🤔 I intend to learn coding skills leveraging AI and software development during the year 2025  
 - 📫 How to reach me: x24parthg@iima.ac.in
