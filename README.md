@@ -5,4 +5,6 @@
 - 🤔 I intend to learn coding skills leveraging AI and software development during the year 2025  
 - 📫 How to reach me: x24parthg@iima.ac.in
 - ⚡ Fun fact: Did Mechanical engineering ! Joined the Armed forces ! Left it to do an MBA ! Stepped out of placements to start a company ! Now at 32 learning things that my nephew knows at 15  !  happy life !
+
+check change
 -->
